@@ -1,0 +1,6 @@
+{
+  "name": "Pest Control Yaoundé & Douala",
+  "description": "Professional pest control services in Yaoundé and Douala. Stop cockroaches, rats, ants, and mosquitoes today. Fast response, safe products, affordable rates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
